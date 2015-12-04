@@ -28,7 +28,7 @@ box1=Box(2,3,4)
 # print("wrappingPaper: 43 =", box2.wrappingPaper)
 # print("ribben: 14 =", box2.totalRibben)
 
-with open('Day 02/Present List.txt') as file:
+with open('Day02/PresentList.txt') as file:
     WrappingPaperCount = 0
     RibbenCount = 0
     while True:

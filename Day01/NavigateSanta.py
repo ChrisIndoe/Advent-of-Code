@@ -3,7 +3,7 @@ import fileinput
 floor = 0
 charIndex = 0
 enteredBasement = False
-with open('Day 01/Santa Map.txt') as file:
+with open('Day01/SantaMap.txt') as file:
 
     while True:
         charIndex +=1
